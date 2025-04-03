@@ -53,3 +53,8 @@ Activatin de php dans la configuration de VirtualHOST
       SetHandler "proxy:unix:/run/php/php8.1-fpm.sock|fcgi://localhost"
     </FilesMatch>
 
+
+
+
+  
+
